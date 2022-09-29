@@ -1,0 +1,118 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#fondo{
+    background-color: #010814;
+}
+
+.logo__img{
+    width: 68px;
+    height: 68px;
+    margin-left: -95px;
+    border-radius: 100px;
+}
+
+.busqueda{
+    border-radius: 10px;
+    width: 300px;
+    right: 5000%;
+    margin: 0.5% 77%;
+}
+
+.contend{
+    text-align: center;
+    position: relative;
+    margin-top: -35%;
+    margin-bottom: 100px;
+    color: rgb(253, 253, 253);
+}
+
+#fondo{
+    margin-top: -25px;
+    height: 100%;
+    width: 100%;
+}
+
+#cabeza{
+    background-color: #442f6a;
+    color-scheme: blue;
+    margin-left: -35%;
+}
+
+#a{
+    color: #52fefb;
+    align-content: center;
+}
+
+#cont{
+    margin: 20px 29% 0px 0px;
+}
+
+#productos{
+    margin-top: 30%;
+    margin-left: 70px;
+}
+
+
+.img{
+    margin: 20px;
+    border-radius: 5%;
+}
+
+.pro{
+    margin-right: 70px;
+    background-color: #38599d;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.tablas{
+    font-size: 25px;
+}
+
+.descripciones{
+    font-size: 15px;
+    /* margin-right: 500px; */
+}
+
+.titulo{
+    font-size: 60px;
+}
+
+.col{
+    margin: 0px 35px 400px 35px;
+    height: 125px;
+    width: 170px;
+}
+
+#cartica{
+    width: 110%;
+    margin-left: 30%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.card shadow-sm{
+    width: 20px;
+}
+
+.btn-group{
+    padding-top: 20px;
+}
+
+#sep{
+    height: 15px;
+    color: solid white;    
+    margin-top: 30px;
+}
+
+.cajaPre{
+    border:solid 1px black;
+    border-radius: 10%;
+    padding:7px ;
+    margin-top: 15px;
+    margin-left: 77%;
+}
